@@ -8,7 +8,7 @@ namespace ExampleGit
 {
     public class Class1
     {
-
+        //example
 
     }
 }
